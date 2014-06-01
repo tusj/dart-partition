@@ -1,0 +1,5 @@
+name: partition
+description: a partition function for Collection, splitting a collection into two collections
+dependencies:
+  tuple:
+    path: ../tuple
