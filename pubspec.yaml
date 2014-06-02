@@ -1,6 +1,6 @@
 name: partition
 description: A partition function for Iterable, splitting an Iterable into two Iterables.
-dependencies:
+dev_dependencies:
   benchmark_harness: any
   tuple:
     path: ../tuple
