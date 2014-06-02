@@ -1,5 +1,6 @@
 name: partition
-description: a partition function for Collection, splitting a collection into two collections
+description: A partition function for Iterable, splitting an Iterable into two Iterables.
 dependencies:
+  benchmark_harness: any
   tuple:
     path: ../tuple
